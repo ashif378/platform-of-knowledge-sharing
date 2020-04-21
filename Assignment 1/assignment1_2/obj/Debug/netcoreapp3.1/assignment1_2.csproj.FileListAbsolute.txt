@@ -1,0 +1,26 @@
+C:\Users\aakmi\source\repos\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.exe
+C:\Users\aakmi\source\repos\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.deps.json
+C:\Users\aakmi\source\repos\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.runtimeconfig.json
+C:\Users\aakmi\source\repos\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.runtimeconfig.dev.json
+C:\Users\aakmi\source\repos\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.dll
+C:\Users\aakmi\source\repos\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.pdb
+C:\Users\aakmi\source\repos\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.csprojAssemblyReference.cache
+C:\Users\aakmi\source\repos\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.csproj.CoreCompileInputs.cache
+C:\Users\aakmi\source\repos\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.AssemblyInfoInputs.cache
+C:\Users\aakmi\source\repos\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.AssemblyInfo.cs
+C:\Users\aakmi\source\repos\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.dll
+C:\Users\aakmi\source\repos\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.pdb
+C:\Users\aakmi\source\repos\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.genruntimeconfig.cache
+E:\dot net core\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.exe
+E:\dot net core\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.deps.json
+E:\dot net core\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.runtimeconfig.json
+E:\dot net core\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.runtimeconfig.dev.json
+E:\dot net core\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.dll
+E:\dot net core\assignment1_2\bin\Debug\netcoreapp3.1\assignment1_2.pdb
+E:\dot net core\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.csprojAssemblyReference.cache
+E:\dot net core\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.csproj.CoreCompileInputs.cache
+E:\dot net core\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.AssemblyInfoInputs.cache
+E:\dot net core\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.AssemblyInfo.cs
+E:\dot net core\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.dll
+E:\dot net core\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.pdb
+E:\dot net core\assignment1_2\obj\Debug\netcoreapp3.1\assignment1_2.genruntimeconfig.cache
