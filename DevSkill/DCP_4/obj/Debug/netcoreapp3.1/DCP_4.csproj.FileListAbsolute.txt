@@ -1,0 +1,13 @@
+C:\Users\aakmi\source\repos\DCP_4\bin\Debug\netcoreapp3.1\DCP_4.exe
+C:\Users\aakmi\source\repos\DCP_4\bin\Debug\netcoreapp3.1\DCP_4.deps.json
+C:\Users\aakmi\source\repos\DCP_4\bin\Debug\netcoreapp3.1\DCP_4.runtimeconfig.json
+C:\Users\aakmi\source\repos\DCP_4\bin\Debug\netcoreapp3.1\DCP_4.runtimeconfig.dev.json
+C:\Users\aakmi\source\repos\DCP_4\bin\Debug\netcoreapp3.1\DCP_4.dll
+C:\Users\aakmi\source\repos\DCP_4\bin\Debug\netcoreapp3.1\DCP_4.pdb
+C:\Users\aakmi\source\repos\DCP_4\obj\Debug\netcoreapp3.1\DCP_4.csprojAssemblyReference.cache
+C:\Users\aakmi\source\repos\DCP_4\obj\Debug\netcoreapp3.1\DCP_4.csproj.CoreCompileInputs.cache
+C:\Users\aakmi\source\repos\DCP_4\obj\Debug\netcoreapp3.1\DCP_4.AssemblyInfoInputs.cache
+C:\Users\aakmi\source\repos\DCP_4\obj\Debug\netcoreapp3.1\DCP_4.AssemblyInfo.cs
+C:\Users\aakmi\source\repos\DCP_4\obj\Debug\netcoreapp3.1\DCP_4.dll
+C:\Users\aakmi\source\repos\DCP_4\obj\Debug\netcoreapp3.1\DCP_4.pdb
+C:\Users\aakmi\source\repos\DCP_4\obj\Debug\netcoreapp3.1\DCP_4.genruntimeconfig.cache
