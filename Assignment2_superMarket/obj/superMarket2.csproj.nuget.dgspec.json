@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dot net core\\superMarket3\\superMarket3.csproj": {}
+    "E:\\dot net core\\superMarket2\\superMarket2.csproj": {}
   },
   "projects": {
-    "E:\\dot net core\\superMarket3\\superMarket3.csproj": {
+    "E:\\dot net core\\superMarket2\\superMarket2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dot net core\\superMarket3\\superMarket3.csproj",
-        "projectName": "superMarket3",
-        "projectPath": "E:\\dot net core\\superMarket3\\superMarket3.csproj",
+        "projectUniqueName": "E:\\dot net core\\superMarket2\\superMarket2.csproj",
+        "projectName": "superMarket2",
+        "projectPath": "E:\\dot net core\\superMarket2\\superMarket2.csproj",
         "packagesPath": "C:\\Users\\aakmi\\.nuget\\packages\\",
-        "outputPath": "E:\\dot net core\\superMarket3\\obj\\",
+        "outputPath": "E:\\dot net core\\superMarket2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aakmi\\AppData\\Roaming\\NuGet\\NuGet.Config",

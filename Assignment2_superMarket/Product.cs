@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace superMarket3
+namespace superMarket2
 {
-    public class Product
+    public class product
     {
         public int id { get; set; }
         public string name { get; set; }
@@ -14,7 +14,7 @@ namespace superMarket3
 
         public override string ToString()
         {
-            return id + "\t" + name + "\t\t" + amount + "\t" + quantity + "\t" + rating;
+            return id + "\t" + name + "\t\t" + amount + "\t\t" + quantity + "\t\t" + rating;
         }
 
         public override int GetHashCode()
