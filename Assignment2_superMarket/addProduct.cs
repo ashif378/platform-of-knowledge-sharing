@@ -20,7 +20,7 @@ namespace superMarket2
             int id, amount, quantity;
             double rating;
 
-            /*Console.Write("Enter Product ID: ");
+            Console.Write("Enter Product ID: ");
             id = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter Product Name: ");
             name = Console.ReadLine();
@@ -29,11 +29,21 @@ namespace superMarket2
             Console.Write("Enter Prodct Quantity: ");
             quantity = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter Product Rating: ");
-            rating = Convert.ToDouble(Console.ReadLine());*/
+            rating = Convert.ToDouble(Console.ReadLine());
 
-           // productList.proAdd(id, name, amount, quantity, rating);
+            if(id > 0)
+            {
+                productList.proAdd(id, name, amount, quantity, rating);
+            }
+            else
+            {
+                Console.Clear();
+                Console.WriteLine("Wrong input. Try again.");
+                addp();
+            }
+            
 
-            Console.Write("Product added successfully.\nEnter 1 to add more product\nEnter 2 for Main menu.\nEnter: ");
+            Console.Write("Product added successfully.\n\nEnter 1 to add more product\n\nEnter 2 for Main menu.\n\nEnter: ");
             int a = Convert.ToInt32(Console.ReadLine());
             if (a == 1) addp();
             else
