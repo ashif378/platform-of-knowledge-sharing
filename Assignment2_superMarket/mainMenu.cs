@@ -23,11 +23,13 @@ namespace superMarket2
             }
             else if (choice == 2)
             {
-
+                DeleteAnItem obj2 = new DeleteAnItem();
+                obj2.delete();
             }
             else if (choice == 3)
             {
-
+                BuyAnItem obj3 = new BuyAnItem();
+                obj3.buy();
             }
             else if (choice == 4)
             {
