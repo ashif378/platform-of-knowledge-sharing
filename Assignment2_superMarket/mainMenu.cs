@@ -33,7 +33,8 @@ namespace superMarket2
             }
             else if (choice == 4)
             {
-
+                ShowMinMax obj4 = new ShowMinMax();
+                obj4.show();
             }
             else if (choice == 5)
             {
