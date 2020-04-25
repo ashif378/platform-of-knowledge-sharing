@@ -17,10 +17,10 @@ namespace superMarket2
             return id + "\t" + name + "\t\t" + amount + "\t\t" + quantity + "\t\t" + rating;
         }
 
-        /*public override int GetHashCode()
+        public override int GetHashCode()
         {
             return id;
-        }*/
+        }
 
 
 
