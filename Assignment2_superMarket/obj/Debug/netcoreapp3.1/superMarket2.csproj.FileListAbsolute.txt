@@ -11,3 +11,16 @@ E:\dot net core\superMarket2\obj\Debug\netcoreapp3.1\superMarket2.AssemblyInfo.c
 E:\dot net core\superMarket2\obj\Debug\netcoreapp3.1\superMarket2.dll
 E:\dot net core\superMarket2\obj\Debug\netcoreapp3.1\superMarket2.pdb
 E:\dot net core\superMarket2\obj\Debug\netcoreapp3.1\superMarket2.genruntimeconfig.cache
+E:\dot net core\knowledge share\Assignment2_superMarket\bin\Debug\netcoreapp3.1\superMarket2.exe
+E:\dot net core\knowledge share\Assignment2_superMarket\bin\Debug\netcoreapp3.1\superMarket2.deps.json
+E:\dot net core\knowledge share\Assignment2_superMarket\bin\Debug\netcoreapp3.1\superMarket2.runtimeconfig.json
+E:\dot net core\knowledge share\Assignment2_superMarket\bin\Debug\netcoreapp3.1\superMarket2.runtimeconfig.dev.json
+E:\dot net core\knowledge share\Assignment2_superMarket\bin\Debug\netcoreapp3.1\superMarket2.dll
+E:\dot net core\knowledge share\Assignment2_superMarket\bin\Debug\netcoreapp3.1\superMarket2.pdb
+E:\dot net core\knowledge share\Assignment2_superMarket\obj\Debug\netcoreapp3.1\superMarket2.csprojAssemblyReference.cache
+E:\dot net core\knowledge share\Assignment2_superMarket\obj\Debug\netcoreapp3.1\superMarket2.csproj.CoreCompileInputs.cache
+E:\dot net core\knowledge share\Assignment2_superMarket\obj\Debug\netcoreapp3.1\superMarket2.AssemblyInfoInputs.cache
+E:\dot net core\knowledge share\Assignment2_superMarket\obj\Debug\netcoreapp3.1\superMarket2.AssemblyInfo.cs
+E:\dot net core\knowledge share\Assignment2_superMarket\obj\Debug\netcoreapp3.1\superMarket2.dll
+E:\dot net core\knowledge share\Assignment2_superMarket\obj\Debug\netcoreapp3.1\superMarket2.pdb
+E:\dot net core\knowledge share\Assignment2_superMarket\obj\Debug\netcoreapp3.1\superMarket2.genruntimeconfig.cache
