@@ -9,16 +9,39 @@ namespace superMarket2
     {
         public void show()
         {
-            int a = productList.plist.Max(x => x.quantity);
-            //Console.WriteLine(a);
-            int b = productList.plist.Min(x => x.quantity);
-            //Console.WriteLine(b);
 
-            product obj = productList.plist.First(x => x.quantity == a);
-            Console.WriteLine(obj.id);
+            if(productList.plist.Count > 1)
+            {
+                int a = productList.plist.Max(x => x.quantity);
+                //Console.WriteLine(a);
+                int b = productList.plist.Min(x => x.quantity);
+                //Console.WriteLine(b);
 
-            product obj1 = productList.plist.First(y => y.quantity == b);
-            Console.WriteLine(obj1.id);
+                product obj = productList.plist.First(x => x.quantity == a);
+                product obj1 = productList.plist.First(y => y.quantity == b);
+
+
+                Console.WriteLine($"Maximum Quantity Product: {obj.name}");
+                Console.WriteLine($"Minimum Quantity Product: {obj1.name}");
+
+                Console.WriteLine("Id\tName\t\tAmount\t\tQuantity\tRating");
+                Console.WriteLine(".............................................................................");
+
+                Console.WriteLine($"{obj.id}\t{obj.name}\t\t{obj.amount}\t\t{obj.quantity}\t\t{obj.rating}");
+                Console.WriteLine($"{obj1.id}\t{obj1.name}\t\t{obj1.amount}\t\t{obj1.quantity}\t\t{obj1.rating}");
+            }
+            else if(productList.plist.Count == 1)
+            {
+                Console.WriteLine("\nOnly one product found.\n");
+                printAll print = new printAll();
+                print.print();
+            }
+            else 
+            {
+                Console.WriteLine("\nProduct list is empty!! \n\n");
+            }
+            
+            
 
 
             mainMenu ob = new mainMenu();

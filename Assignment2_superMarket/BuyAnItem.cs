@@ -20,6 +20,7 @@ namespace superMarket2
             if(obj != null)
             {
                 obj.quantity = obj.quantity - quantity;
+
             }
 
             mainMenu o = new mainMenu();
