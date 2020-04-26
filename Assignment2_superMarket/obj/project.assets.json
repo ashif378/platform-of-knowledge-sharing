@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dot net core\\knowledge share\\Assignment2_superMarket\\superMarket2.csproj",
-      "projectName": "superMarket2",
-      "projectPath": "E:\\dot net core\\knowledge share\\Assignment2_superMarket\\superMarket2.csproj",
+      "projectUniqueName": "E:\\dot net core\\knowledge share\\Assignment2_superMarket\\superMarket3.csproj",
+      "projectName": "superMarket3",
+      "projectPath": "E:\\dot net core\\knowledge share\\Assignment2_superMarket\\superMarket3.csproj",
       "packagesPath": "C:\\Users\\aakmi\\.nuget\\packages\\",
       "outputPath": "E:\\dot net core\\knowledge share\\Assignment2_superMarket\\obj\\",
       "projectStyle": "PackageReference",
