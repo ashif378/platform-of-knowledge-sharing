@@ -19,7 +19,19 @@ namespace superMarket2
             product obj = productList.plist.First(x => x.id == id);
             if(obj != null)
             {
-                obj.quantity = obj.quantity - quantity;
+                if(obj.quantity == 0)
+                {
+                    Console.WriteLine("Opps.. Product out of stock!");
+                }
+                if(obj.quantity > 0 && (obj.quantity - quantity) >= 0)
+                {
+                    obj.quantity = obj.quantity - quantity;
+                }
+                else
+                {
+                    Console.WriteLine("");
+                }
+                
 
             }
 

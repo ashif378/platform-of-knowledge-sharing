@@ -11,7 +11,7 @@ namespace superMarket2
         public void addp()
         {
             Console.Clear();
-            checkNinsert(1, "mouse", 300, 5, 8.1);
+            checkNinsert(1, "mouse", 300, 50, 8.1);
             checkNinsert(2, "kboard", 600, 10, 8.3);
             checkNinsert(3, "monitor", 6000, 25, 7.3);
             checkNinsert(4, "HDD", 3500, 15, 8.4);
